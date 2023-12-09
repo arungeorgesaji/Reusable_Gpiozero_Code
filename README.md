@@ -4,15 +4,15 @@ This repository contains a collection of reusable code snippets integrating the 
 
 ## How to Hold Your Raspberry Pi for Listening to Instructions
 
-![Raspberry Pi Handling](link_to_image1.png)
+![Raspberry Pi Handling](how_to_hold.png)
 
-*Insert picture here*: Ensure to hold your Raspberry Pi in this manner while following instructions regarding circuit creation.
+Ensure to hold your Raspberry Pi in this manner while following instructions regarding circuit creation.
 
 ## GPIO Pin Configuration Guide
 
-![GPIO Pin Configuration](link_to_image2.png)
+![GPIO Pin Configuration](gpio_conf.png)
 
-*Insert picture here*: Refer to this GPIO pin configuration guide in case of conflicts or unavailability of specific pins for smooth integration.
+Refer to this GPIO pin configuration guide in case of conflicts or unavailability of specific pins for smooth integration.
 
 ## Usage
 
